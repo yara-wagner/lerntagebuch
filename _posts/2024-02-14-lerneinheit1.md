@@ -22,21 +22,18 @@ Der Leistungsnachweis soll in Form eines Lerntagebuch-Blogs erbracht werden. Dab
 
 Die Blogposts sollen wenn möglich einen Tag vor der nächsten Vorlesung hochgeladen werden, Nachbesserungen sind jedoch auch später noch möglich. Bewertet wird erst die am Schluss abgegebene Version des Lerntagebuchs.
 
+💭 Dem Leistungsnachweis gegenüber war ich erst ein wenig skeptisch eingestellt, da es eher aufwändig klingt. Ich denke jedoch, dass ich so definitv mehr aus dem Modul mitnehmen werde, als bei einer Prüfung am Ende des Semesters. Ausserdem mag ich Strukturen, die mir helfen "dranzubleiben", denn so lerne ich am meisten.
+
 ## Vorstellungsrunde
 In der Vorstellungsrunde sollten folgende zwei Fragen beantwortet werden:
 1. Praxiserfahrungen: Hatten Sie bereits außerhalb der Hochschule mit Bibliotheks- oder Archivsoftware zu tun?
 2. Motivation / Erwartungshaltung: Was erwarten Sie persönlich von diesem Kurs?
 
-#### Meine Praxiserfahrung
-In meinem Arbeitsalltag als Professional Testing Engineer habe ich zwar viel mit Software zu tun, bisher jedoch noch nie mit Bibliotheks- oder Archivsoftware. Ich kann mir folglich grob Vorstellen, wie Bibliotheks- und Archivsoftware im Hintergrund funktionert und welche Probleme bei der Bedienung auftreten könnten, die konkrete Anwendung ist hingegen neu für mich.<br>
-
-#### Meine Motivation / Erwartungshaltung
-Ich finde es immer spannend, neue Software und deren Kontext kennenzulernen. Das macht mir auch in meinem Beruf grossen Spass. Da ich bisher noch nie mit Bibliotheks- oder Archivsoftware in Berührung gekommen bin, habe ich auch noch keine grossen Vorstellungen von diesem Modul. Ich bin gespannt darauf, was mich alles erwartet und was ich Neues dazulernen kann! :)
-
-Dem Leistungsnachweis gegenüber war ich erst ein wenig skeptisch eingestellt, ich denke jedoch, dass ich so definitv mehr aus dem Modul mitnehmen werde, als bei einer Prüfung am Ende des Semesters. Ich mag Strukturen die mir helfen "dranzubleiben", denn so lerne ich am meisten.
+Da ich bereits in meinem [ersten Blogpost](https://yara-wagner.github.io/lerntagebuch/2024/02/14/einfuehrung.html) über meine Praxiserfahrung und meine Motivation / Erwartungshaltung zum Modul geschrieben habe, kann das dort nachgelesen werden und wird hier nicht wiederholt.
 
 ## Arbeitsumgebung
-Als Arbeitsumgebung wird in diesem Modul GitHub verwendet. GitHub stellt Codespaces (virtuelle Entwicklungsumgebungen) zur Verfügung, die gut dafür geegnet sind um Dinge auszuprobieren.
+Als Arbeitsumgebung wird in diesem Modul GitHub verwendet. GitHub stellt Codespaces (virtuelle Entwicklungsumgebungen) zur Verfügung, die gut dafür geegnet sind um Dinge auszuprobieren. Ohne grossen Aufwand können so verschiedene virtuelle Entwicklungsumgebungen genutzt werden. Da die kostenlose Nutzung der Codespaces jedoch beschränkt ist, empfiehlt es sich, nicht genutzte Codespaces zu löschen. Dadurch behält man auch besser die Übersicht über die eigenen Codespaces. Für die Übungen während des Moduls ist es ausserdem sinnvoll, jeweils mit einer neuen Basis zu beginnen, denn so übernimmt man bestimmt keine zuvor gemachten Fehler/Probleme.
+
 Als Vorbereitung für die nächste Lerneinheit am Nachmittag, wurde ein vom Dozenten vorbereitetes Repository (https://github.com/felixlohmeier/bain-lc-unix-shell) als Codespace ausgecheckt.
 
 Aufgrund vergangener Module wie beispielsweise FRONT (Frontend Development) oder ARIS (Architektur von Informationssystemen) sowie auch dank meiner Arbeit als Testing Engineer bin ich bereits vertraut mit Git und GitHub. Diese zu verwenden sollte mir folglich keine grossen Schwierigkeiten bereiten.
