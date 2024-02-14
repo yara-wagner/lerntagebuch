@@ -15,6 +15,13 @@ In diesem Lerntagebuch möchte ich meine Erkenntnisse aus dem Modul “Bibliothe
 
 Ich möchte darauf hinweisen, dass im Lerntagebuch festgehaltene theoretische Inhalte, welche nicht anders gekennzeichnet sind, aus den Vorlesungen des Moduls stammen. Inhalte aus weiteren Quellen werden aber selbstverständlich auch als solche ausgewiesen.
 
+Im Lerntagebuch werden bestimmte Abschnitte jeweils mit Emojis gekennzeichnet. Nachfolgend eine Legende dazu:
+- 💭 Gedanken
+- 💡 Neu Gelerntes
+- ❓ Fragen / Unklarheiten
+- ⚠️ Muss nochmals angeschaut werden
+- ...
+
 ## Meine Ausgangslage
 Mein Wissen über Bibliotheks- und Archivthemen habe ich fast ausschliesslich aus diesem Studium. Mit Bibliotheks- und Archivsoftware kenne ich mich folglich gar nicht aus. Mit Informatik-Themen beschäftige ich mich hingegen neben den verschiedenen Informatik-Modulen im Studium auch in meinem Arbeitsalltag. Der Umgang mit Git, GitHub oder Markdown ist mir folglich nicht neu. Auch im Umgang mit verschiedener Software bin ich als Software Testerin geübt - zwar ist natürlich jede Software anders, trotzdem haben sie auch viele Gemeinsamkeiten oder Ähnlichkeiten. Ich scheue mich auch nicht, einfach mal etwas auszuprobieren oder irgendwo zu klicken und zu schauen, was passiert. Unbekannter Software bin ich stets neugierig gegenüber.
 
