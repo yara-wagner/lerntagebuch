@@ -34,6 +34,6 @@ Da ich bereits in meinem [ersten Blogpost](https://yara-wagner.github.io/lerntag
 ## Arbeitsumgebung
 Als Arbeitsumgebung wird in diesem Modul GitHub verwendet. GitHub stellt Codespaces (virtuelle Entwicklungsumgebungen) zur Verfügung, die gut dafür geegnet sind um Dinge auszuprobieren. Ohne grossen Aufwand können so verschiedene virtuelle Entwicklungsumgebungen genutzt werden. Da die kostenlose Nutzung der Codespaces jedoch beschränkt ist, empfiehlt es sich, nicht genutzte Codespaces zu löschen. Dadurch behält man auch besser die Übersicht über die eigenen Codespaces. Für die Übungen während des Moduls ist es ausserdem sinnvoll, jeweils mit einer neuen Basis zu beginnen, denn so übernimmt man bestimmt keine zuvor gemachten Fehler/Probleme.
 
-Als Vorbereitung für die nächste Lerneinheit am Nachmittag, wurde ein vom Dozenten vorbereitetes Repository (https://github.com/felixlohmeier/bain-lc-unix-shell) als Codespace ausgecheckt.
+Als Vorbereitung für die nächste Lerneinheit am Nachmittag, wurde ein vom Dozenten [vorbereitetes Repository](https://github.com/felixlohmeier/bain-lc-unix-shell) als Codespace ausgecheckt.
 
 Aufgrund vergangener Module wie beispielsweise FRONT (Frontend Development) oder ARIS (Architektur von Informationssystemen) sowie auch dank meiner Arbeit als Testing Engineer bin ich bereits vertraut mit Git und GitHub. Diese zu verwenden sollte mir folglich keine grossen Schwierigkeiten bereiten.
