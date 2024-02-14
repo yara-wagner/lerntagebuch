@@ -13,7 +13,6 @@ Heute fand die erste Vorlesung des Moduls "Bibliotheks- und Archivinformatik" st
 
 Ziel des Moduls "Bibliotheks- und Archivinformatik" ist es, die in Bibliotheken und Archiven eingesetzten Softwares und Technologien sowie die verwendeten Metadatenstandards und Austauschprotokolle kennenzulernen (siehe auch Modulbeschreibung in Moodle).
 
-
 ## Leistungsnachweis
 **Abgabedatum**: 07.07.2024
 
@@ -35,3 +34,7 @@ In meinem Arbeitsalltag als Professional Testing Engineer habe ich zwar viel mit
 Ich finde es immer spannend, neue Software und deren Kontext kennenzulernen. Das macht mir auch in meinem Beruf grossen Spass. Da ich bisher noch nie mit Bibliotheks- oder Archivsoftware in Berührung gekommen bin, habe ich auch noch keine grossen Vorstellungen von diesem Modul. Ich bin gespannt darauf, was mich alles erwartet und was ich Neues dazulernen kann! :)
 
 Dem Leistungsnachweis gegenüber war ich erst ein wenig skeptisch eingestellt, ich denke jedoch, dass ich so definitv mehr aus dem Modul mitnehmen werde, als bei einer Prüfung am Ende des Semesters. Ich mag Strukturen die mir helfen "dranzubleiben", denn so lerne ich am meisten.
+
+## Arbeitsumgebung
+Als Arbeitsumgebung wird in diesem Modul GitHub verwendet. GitHub stellt Codespaces (virtuelle Entwicklungsumgebungen) zur Verfügung, die gut dafür geegnet sind um Dinge auszuprobieren.
+Als Vorbereitung für die nächste Lerneinheit am Nachmittag, wurde ein vom Dozenten vorbereitetes Repository (https://github.com/felixlohmeier/bain-lc-unix-shell) als Codespace ausgecheckt.
