@@ -39,4 +39,4 @@ Dem Leistungsnachweis gegenüber war ich erst ein wenig skeptisch eingestellt, i
 Als Arbeitsumgebung wird in diesem Modul GitHub verwendet. GitHub stellt Codespaces (virtuelle Entwicklungsumgebungen) zur Verfügung, die gut dafür geegnet sind um Dinge auszuprobieren.
 Als Vorbereitung für die nächste Lerneinheit am Nachmittag, wurde ein vom Dozenten vorbereitetes Repository (https://github.com/felixlohmeier/bain-lc-unix-shell) als Codespace ausgecheckt.
 
-Aufgrund vergangener Module wie beispielsweise FRONT oder ARIS sowie auch dank meiner Arbeit als Testing Engineer bin ich bereits vertraut mit Git und GitHub. Diese zu verwenden sollte mir folglich keine grossen Schwierigkeiten bereiten.
+Aufgrund vergangener Module wie beispielsweise FRONT (Frontend Development) oder ARIS (Architektur von Informationssystemen) sowie auch dank meiner Arbeit als Testing Engineer bin ich bereits vertraut mit Git und GitHub. Diese zu verwenden sollte mir folglich keine grossen Schwierigkeiten bereiten.
