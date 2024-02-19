@@ -3,7 +3,7 @@ title: "Lerneinheit 1: Technische Grundlagen 1/2"
 date: 2024-02-14
 ---
 
-Heute fand die erste Vorlesung des Moduls "Bibliotheks- und Archivinformatik" statt (siehe auch [gemeinsamen Dokument der Lerneinheit](https://pad.gwdg.de/ReigBDtuQCWgjjLLdhBogg)). Zu Beginn wurden gezeigt, wie der Kurs aufgebaut ist und besprochen wie der Leistungsnachweis aussehen soll. Danach fand eine Vorstellungsrunde statt, bei der sich erst der Dozent vorgestellt hat und anschliessend alle Studierenden. Zu guter Letzt wurde noch die Arbeitsumgebung (GitHub) eingerichtet. Da in dieser Lerneinheit mehr Organisatorisches und weniger konkrete Themen behandelt wurden, möchte ich in diesem Blogpost kurz die wichtigsten organisatorischen Punkte zusammenfassen und danach noch meine Antworten zu den zwei Fragen aus der Vorstellungsrunde festhalten.
+Heute fand die erste Vorlesung des Moduls "Bibliotheks- und Archivinformatik" statt (siehe auch [gemeinsames Dokument der Lerneinheit](https://pad.gwdg.de/ReigBDtuQCWgjjLLdhBogg)). Zu Beginn wurden gezeigt, wie der Kurs aufgebaut ist und besprochen wie der Leistungsnachweis aussehen soll. Danach fand eine Vorstellungsrunde statt, bei der sich erst der Dozent vorgestellt hat und anschliessend alle Studierenden. Zu guter Letzt wurde noch die Arbeitsumgebung (GitHub) eingerichtet. Da in dieser Lerneinheit mehr Organisatorisches und weniger konkrete Themen behandelt wurden, möchte ich in diesem Blogpost kurz die wichtigsten organisatorischen Punkte zusammenfassen und danach noch meine Antworten zu den zwei Fragen aus der Vorstellungsrunde festhalten.
 
 ## Kursorganisation
 **ECTS-Punkte**: 4 <br>
