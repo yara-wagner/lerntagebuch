@@ -8,7 +8,7 @@ Heute sind wir nach den letzten beiden eher organisatorischen Einheiten ins eige
 ## Metadatenstandards in Bibliotheken
 Zu Beginn haben wir uns **den** Metadatenstandard für Bibliotheken angeschaut. MARC21 wurde 1999 von der [Library of Congress](https://www.loc.gov) begründet & kann entweder als XML oder im eigenen Binärformat (.mrc) kodiert werden. Für die Inhaltsbezeichnung der Felder werden explizit festgelegte Codes verwendet, die aus Buchstaben & Zahlen bestehen (siehe auch [Summary Statement of Content Designators](https://www.loc.gov/marc/bibliographic/bdsummary.html)). Der Standard ist international verbreitet & wird von grossen Bibliothekssystemen als Basis genutzt oder als Austauschformat unterstützt. Trotz der internationalen Verbreitung kann es in der praktischen Anwendung grössere Abweichungen geben. Das ist auf unterschiedliche Katalogisierungsregeln der Institutionen & die Möglichkeit eigene Felder zu belegen zurückzuführen. Weitere Abweichungen kommen zudem noch durch Anwendungs- oder technische Fehler zustande. Um Fehlern entgegenzuwirken gibt es Assessment-Software, die die Verwendung des Standards auf Fehler prüft.
 
-MARC21 soll voraussichtlich in Zukunft durch BIBFRAME (basiert auf RDF) abgelöst werden, welches Inkonsistenzen verhindern soll. MARC21 orientiert sich am Medium, wodurch pro Werk ein Eintrag erstellt wird, welcher mit allen notwendigen Angeben befüllt wird. Das kann dazu führen, dass derselbe Autor je nach Werk auf verschiedene Arten aufgeführt wird. Bei BIBFRAME hingegen wird pro Autor ein Eintrag erstellt, welcher dann bei den zugehörigen Werken verlinkt werden kann.
+MARC21 soll voraussichtlich in Zukunft durch BIBFRAME (basiert auf RDF) abgelöst werden. MARC21 orientiert sich am Medium, wodurch pro Werk ein Eintrag erstellt wird, welcher mit allen notwendigen Angeben befüllt wird. Das kann dazu führen, dass derselbe Autor je nach Werk auf verschiedene Arten aufgeführt wird. Bei BIBFRAME hingegen wird pro Autor ein Eintrag erstellt, welcher dann bei den zugehörigen Werken verlinkt werden kann.
 
 Dublin Core ist im Gegensatz zu MARC21 ein Standard, welcher über die Bibliothekswelt hinaus genutzt wird. Im Kern setzt sich der Standard aus 15 Basiselementen zusammen, welche sprechende Namen wie z. B. "title" tragen.  
 
@@ -26,7 +26,6 @@ Anders als Regelwerke dienen Datenformate der praktischen Repräsentation von Ka
 
 Die Software steht unter der GNU General Public License (GPL). Das heisst, dass die Software frei genutzt & weiterentwickelt werden darf, die Weiterentwicklungen müssen jedoch auch wieder unter derselben Lizenz veröffentlicht werden & dürfen nicht verkauft werden.
 
-### Gesundheit von Open Source Software
-Nicht jedes Open Source Projekt ist ein solches Vorzeige-Projekt wie Koha. Aus diesem Grund ist es besonders wichtig, vor der Nutzung von Open Source Software den Gesundheitsstatus zu überprüfen (dazu gibt es verschiedene Internetseiten).
-
+## Gesundheit von Open Source Software
+Nicht jedes Open Source Projekt ist ein solches Vorzeige-Projekt wie Koha. Aus diesem Grund ist es besonders wichtig, vor der Nutzung von Open Source Software den Gesundheitsstatus zu überprüfen (dazu gibt es verschiedene Internetseiten).<br>
 💡 Der Gesundheitsstatus sagt aus wie stabil eine Software ist & dementsprechen auch wie wahrscheinlich es ist, dass die Sotware noch lange besteht & auch weiterentwickelt wird.
