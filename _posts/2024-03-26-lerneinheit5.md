@@ -34,6 +34,7 @@ Ausserdem wird darauf hingewiesen, dass OAI-PMH (Open Archives Initiative Protoc
 - Antwort von Microsoft Copilot: ![image](https://github.com/yara-wagner/lerntagebuch/assets/160014711/ae797dcd-b636-4f71-984f-a5c6162619cb)
 -> Schwammige Antwort, aufgeführte Quellen geben auch nicht weiter Aufschluss (widersprüchliche Aussagen)
 
+---
 
 [^1]: Quelle: https://unbounce.com/website-optimization/what-is-a-splash-page
 [^2]: Quelle: https://wiki.lyrasis.org/display/DSDOC7x/Search+Engine+Optimization
