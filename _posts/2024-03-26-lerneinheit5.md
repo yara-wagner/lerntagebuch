@@ -29,10 +29,10 @@ Zu diesem Thema findet man in der DSpace Dokumentation einige Tipps spezifisch f
 Ausserdem wird darauf hingewiesen, dass OAI-PMH (Open Archives Initiative Protocol for Metadata Harvesting) für Suchmaschinen grundsätzlich nicht von Nutzen ist. [^2]
 
 ❓ Was ist der Unterschied zwischen 'indexiert' und 'indiziert' und wann wird welcher Begriff verwendet? Ich habe nicht wirklich eine Antwort darauf gefunden bzw. die Antworten widersprechen sich zum Teil oder sind schwammig formuliert oder es ist nicht ersichtlich, woher die Definition stammt:
-- "Bei Suchmaschinen heißt es so: Bestehende Informationen, welche nur Sortiert werden (beispielsweise eine Liste von 100 Wörter nach Beliebtheit) wird indexiert. Werden dann nachträglich neue Einträge in die Liste aufgenommen, werden diese neuen Begriffe indiziert." [^3] -> Unklar, woher die Definition stammt und ob sie korrekt ist.
-- Im wird der jeweils andere Begriff im Abschnitt 'Bedeutung' aufgeführt, nicht jedoch bei den Synonymen. [^4] -> Unklar, ob die Begriffe nun gleichbedeutend sind oder nicht
+- "Bei Suchmaschinen heißt es so: Bestehende Informationen, welche nur Sortiert werden (beispielsweise eine Liste von 100 Wörter nach Beliebtheit) wird indexiert. Werden dann nachträglich neue Einträge in die Liste aufgenommen, werden diese neuen Begriffe indiziert." [^3] → Unklar, woher die Definition stammt und ob sie korrekt ist.
+- Im Duden wird der jeweils andere Begriff im Abschnitt 'Bedeutung' aufgeführt, nicht jedoch bei den Synonymen. [^4] → Unklar, ob die Begriffe nun gleichbedeutend sind oder nicht
 - Antwort von Microsoft Copilot: ![image](https://github.com/yara-wagner/lerntagebuch/assets/160014711/ae797dcd-b636-4f71-984f-a5c6162619cb)
--> Schwammige Antwort, aufgeführte Quellen geben auch nicht weiter Aufschluss (widersprüchliche Aussagen)
+→ Schwammige Antwort, aufgeführte Quellen geben auch nicht weiter Aufschluss (widersprüchliche Aussagen)
 
 
 ---
