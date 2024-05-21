@@ -19,7 +19,7 @@ Im Lerntagebuch werden bestimmte Abschnitte jeweils mit Emojis gekennzeichnet. N
 - 💭 Gedanken
 - 💡 Neu Gelerntes
 - ❓ Fragen / Unklarheiten
-- ⚠️ Muss nochmals angeschaut werden
+- ⚠️ Muss/Möchte ich nochmals anschauen
 - ...
 
 ## Meine Ausgangslage
