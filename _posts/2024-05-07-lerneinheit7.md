@@ -3,7 +3,7 @@ title: "Lerneinheit 7: Metadaten modellieren & Schnittstellen nutzen 2/2"
 date: 2024-05-07
 ---
 
-Der nachfolgende Blogpost bezieht sich auf die Unterrichtseinheit vom 07.05.2024. In diesen vier Lektionen ging es um die Modellierung von Metadaten & die Nutzung von Schnittstellen (siehe auch [gemeinsames Dokumnet dieser Lerneinheit](https://pad.gwdg.de/vv-Q4RDnQ22Gqc-EEgbewA)). Nachdem wir uns in den vorherigen Lerneinheiten mit OpenRefine beschäftigt haben, widmet sich diese Lerneinheit nun den Schnittstellen im Allgemeinen sowie der Konvertierung zwischen Metadatenstandards. In dieser zentralen Lerneinheit fliessen folglich viele der zuvor gelernten Themen zusammen, wie auch im Schaubild des Moduls ersichtlich wird:
+Der nachfolgende Blogpost bezieht sich auf die Unterrichtseinheit vom 07.05.2024. In diesen vier Lektionen ging es um die Nutzung von Schnittstellen (siehe auch [gemeinsames Dokumnet dieser Lerneinheit](https://pad.gwdg.de/vv-Q4RDnQ22Gqc-EEgbewA)). Nachdem wir uns in den vorherigen Lerneinheiten mit der Modellierung von Metadaten am Beispiel von OpenRefine beschäftigt haben, widmet sich diese Lerneinheit nun der Nutzung von Schnittstellen sowie der Konvertierung zwischen Metadatenstandards. In dieser zentralen Lerneinheit fliessen folglich viele der zuvor gelernten Themen zusammen, wie auch im Schaubild des Moduls ersichtlich wird:
 ![image](https://github.com/yara-wagner/lerntagebuch/assets/160014711/2c392a8d-2d52-4863-81e7-651c716cfc8d)
 
 ## Schnittstellen
