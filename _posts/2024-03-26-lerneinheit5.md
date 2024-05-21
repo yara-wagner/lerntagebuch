@@ -40,5 +40,5 @@ Ausserdem wird darauf hingewiesen, dass OAI-PMH (Open Archives Initiative Protoc
 
 [^1]: Quelle: [https://unbounce.com/website-optimization/what-is-a-splash-page](https://unbounce.com/website-optimization/what-is-a-splash-page)
 [^2]: Quelle: [https://wiki.lyrasis.org/display/DSDOC7x/Search+Engine+Optimization](https://wiki.lyrasis.org/display/DSDOC7x/Search+Engine+Optimization)
-[^3]: [https://www.lima-city.de/thread/indexierung-oder-indizierung](https://www.lima-city.de/thread/indexierung-oder-indizierung#:~:text=Bestehende%20Informationen%2C%20welche%20nur%20Sortiert,werden%20diese%20neuen%20Begriffe%20indiziert.)
-[^4]: [https://www.duden.de/rechtschreibung/indexieren](https://www.duden.de/rechtschreibung/indexieren) und [https://www.duden.de/rechtschreibung/indizieren](https://www.duden.de/rechtschreibung/indizieren)
+[^3]: Quelle: [https://www.lima-city.de/thread/indexierung-oder-indizierung](https://www.lima-city.de/thread/indexierung-oder-indizierung#:~:text=Bestehende%20Informationen%2C%20welche%20nur%20Sortiert,werden%20diese%20neuen%20Begriffe%20indiziert.)
+[^4]: Quelle: [https://www.duden.de/rechtschreibung/indexieren](https://www.duden.de/rechtschreibung/indexieren) und [https://www.duden.de/rechtschreibung/indizieren](https://www.duden.de/rechtschreibung/indizieren)
