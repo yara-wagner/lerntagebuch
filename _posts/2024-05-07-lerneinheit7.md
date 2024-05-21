@@ -20,4 +20,5 @@ Die Konvertierung wird mit XSLT, einer Programmiersprache zur Transformation von
 
 <hr>
 
-[^1]: Quelle: https://guides.lib.utexas.edu/metadata-basics/harvesting
+
+[^1]: Quelle: [https://guides.lib.utexas.edu/metadata-basics/harvesting](https://guides.lib.utexas.edu/metadata-basics/harvesting)
