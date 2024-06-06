@@ -28,4 +28,4 @@ Alle Erkenntnisse des Vergleichs sind im [gemeinsamen Dokument der Lerneinheit](
 <hr>
 
 
-[^1]: Quelle: https://felixlohmeier.gitbooks.io/seminar-wir-bauen-uns-einen-bibliothekskatalog/content/01_1_opac_vs_discovery-system.html
+[^1]: Quelle: [https://felixlohmeier.gitbooks.io/seminar-wir-bauen-uns-einen-bibliothekskatalog/content/01_1_opac_vs_discovery-system.html](https://felixlohmeier.gitbooks.io/seminar-wir-bauen-uns-einen-bibliothekskatalog/content/01_1_opac_vs_discovery-system.html)
