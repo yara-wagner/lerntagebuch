@@ -1,5 +1,5 @@
 ---
-title: "Lerneinheit 3: Funktion & Aufbau von Bibliothekssystemen"
+title: "Lerneinheit 3: Funktion und Aufbau von Bibliothekssystemen"
 date: 2024-02-27
 ---
 
