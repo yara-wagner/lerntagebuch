@@ -3,7 +3,7 @@ title: "Lerneinheit 5: Repository-Software für Publikationen und Forschungsdate
 date: 2024-03-26
 ---
 
-Der nachfolgende Blogpost bezieht sich auf die Unterrichtseinheiten vom 26.03.2024 & 09.04.2024. In diesen vier Lektionen ging es um Repository-Software für Publikationen und Forschungsdaten (siehe auch [gemeinsames Dokument Teil 1](https://pad.gwdg.de/ycs5WlX8R_6aiNDebpvJoA) & [gemeinsames Dokument Teil 2](https://pad.gwdg.de/suv2C7XsSrWtf9O7VRFJXg)). In der Vorlesung haben wir uns zuerst mit Open Access und Open Data im Allgemeinen beschäftigt und anschliessend die Software DSpace näher kennengelernt. Zum Abschluss gab es dann noch einen Marktüberblick über Repository-Software.
+Der nachfolgende Blogpost bezieht sich auf die Unterrichtseinheiten vom 26.03.2024 und 09.04.2024. In diesen vier Lektionen ging es um Repository-Software für Publikationen und Forschungsdaten (siehe auch [gemeinsames Dokument Teil 1](https://pad.gwdg.de/ycs5WlX8R_6aiNDebpvJoA) und [gemeinsames Dokument Teil 2](https://pad.gwdg.de/suv2C7XsSrWtf9O7VRFJXg)). In der Vorlesung haben wir uns zuerst mit Open Access und Open Data im Allgemeinen beschäftigt und anschliessend die Software DSpace näher kennengelernt. Zum Abschluss gab es dann noch einen Marktüberblick über Repository-Software.
 
 In diesem Lerntagebuch möchte ich mich auf einen bestimmten Aspekt, der mich interessiert, fokussieren und zwar auf die Suchmaschinenoptimierung (SEO) im Kontext von DSpace.
 
