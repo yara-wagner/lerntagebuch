@@ -1,5 +1,5 @@
 ---
-title: "Lerneinheit 8: Suchmaschinen & Discovery-Systeme 1/2"
+title: "Lerneinheit 8: Suchmaschinen und Discovery-Systeme 1/2"
 date: 2024-05-21
 ---
 
@@ -17,7 +17,7 @@ Mehr zu Solr im [Apache Solr Reference Guide](https://solr.apache.org/guide/8_7/
 ## VuFind
 [VuFind](https://vufind.org/vufind/) ist ein Open-Source Discovery-System, welches in PHP geschrieben wurde und Apache Solr für die Suche verwendet. VuFind erhält dabei die Resultate einer Suche von Solr im JSON-Format und stellt sie nutzerfreundlich dar.
 
-## Vergleich Apache Solr & VuFind
+## Vergleich Apache Solr und VuFind
 In der Übung während der Vorlesung haben wir die Demo-Benutzeroberflächen von Solr und VuFind verglichen, um herauszufinden, was bereits von Solr gemacht wird und was VuFind noch zusätzlich bietet. Die Demo-Benutzeroberfläche von Solr entspricht dabei einer relativ technisch gestalteten Admin-Oberfläche (mit technischer Syntax) wohingegen VuFind eine benutzerfreundliche(re) Oberfläche (mit natürlicher Sprache) für Endnutzende bietet.<br>
 Im nachfolgenden Screenshot sieht man die Oberflächen der beiden Demosysteme (links Solr, rechts VuFind):<br>
 ![image](https://github.com/yara-wagner/lerntagebuch/assets/160014711/e6d5a8b4-6ff6-4709-8a26-4a75c76be4e0)
