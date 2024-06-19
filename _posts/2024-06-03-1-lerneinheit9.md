@@ -1,5 +1,5 @@
 ---
-title: "Lerneinheit 9: Suchmaschinen & Discovery-Systeme 2/2"
+title: "Lerneinheit 9: Suchmaschinen und Discovery-Systeme 2/2"
 date: 2024-06-03
 ---
 
