@@ -17,7 +17,7 @@ Ziel des Moduls "Bibliotheks- und Archivinformatik" ist es, die in Bibliotheken 
 **Abgabedatum**: 07.07.2024
 
 Der Leistungsnachweis soll in Form eines Lerntagebuch-Blogs erbracht werden. Dabei soll ein Start- und ein Abschlusspost sowie pro Lerneinheit und pro Übung (ausserhalb der Lerneinheiten als Hausaufgabe) ein Blogpost verfasst werden. Übungen, die während der Lerneinheiten durchgeführt wurden, sind im Blogpost der entsprechenden Lerneinheit enthalten.
-- Umfang Blogpost zu Lerneinheit und Start- & Abschlusspost: 3'000-4'000 Zeichen <br>
+- Umfang Blogpost zu Lerneinheit und Start- und Abschlusspost: 3'000-4'000 Zeichen <br>
 - Umfang Blogpost zu Übung: 1'000-2'000 Zeichen
 
 Die Blogposts sollen wenn möglich einen Tag vor der nächsten Vorlesung hochgeladen werden, Nachbesserungen sind jedoch auch später noch möglich. Bewertet wird erst die am Schluss abgegebene Version des Lerntagebuchs.
