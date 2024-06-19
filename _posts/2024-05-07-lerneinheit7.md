@@ -1,5 +1,5 @@
 ---
-title: "Lerneinheit 7: Metadaten modellieren & Schnittstellen nutzen 2/2"
+title: "Lerneinheit 7: Metadaten modellieren und Schnittstellen nutzen 2/2"
 date: 2024-05-07
 ---
 
