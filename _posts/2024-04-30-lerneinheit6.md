@@ -8,7 +8,7 @@ Der nachfolgende Blogpost bezieht sich auf die Unterrichtseinheiten vom 23.04.20
 ## OpenRefine
 [OpenRefine](https://openrefine.org/) ist eine Open Source Software, welche dabei hilft Rohdaten aufzubereiten und zu bereinigen, genauer gesagt wird die Software für die Analyse, die Bereinigung, die Konvertierung und die Anreicherung von Daten eingesetzt.
 
-⚠️ Falls ich mal im Arbeitsalltag mit OpenRefine in Berührung kommen sollte, kann ich mein Wissen über die Software mit Hilfe einer [Library Carpentry Lesson zu OpenRefine](https://librarycarpentry.org/lc-open-refine/) wieder auffrischen.
+⚠️ Falls ich mal im Arbeitsalltag mit OpenRefine in Berührung kommen sollte, kann ich mein Wissen über die Software mit Hilfe einer [Library Carpentry Lesson zu OpenRefine](https://librarycarpentry.org/lc-open-refine/) wieder auffrischen. Ausserdem bietet OpenRefine selbst eine ausführliche Dokumentation: [OpenRefine User Manual](https://openrefine.org/docs).
 
 Sidenote: Als Logo für die Software wurde das Bild eines Diamanten gewählt, da dieser, gleich wie Daten auch, erst aufbereitet und gereinigt werden muss, um zu seinem vollen Wert zu gelangen.
 
@@ -21,7 +21,14 @@ Die Hauptfunktionen von OpenRefine sind laut ihrer Website folgende:
 * Privacy -> mit OpenRefine transformierte Daten werden lokal gespeichert und nicht auf einem Server
 * Wikibase -> Integration, die es ermöglicht Daten der Wikibase zu beziehen und ihr Daten hinzuzufügen
 
-### unterstütze Formate
+### Unterstütze Formate
 Am einfachsten ist die Nutzung von OpenRefine mit tabelleraische Daten (z. B. CSV, XLS oder auch TXT mit Trennzeichen oder festen Spaltenbreiten). Etwas schwieriger wird es bereits mit flachen XML (wie z. B. MARCXML) oder JSON, doch auch das gelangt mit ein wenig Übung gut. Richtig schwierig wird es erst bei komplexen XML-Daten mit Hierarchien (wie z. B. EAD). Für solche Daten sind zusätzliche Tools notwendig.
 
-## 
+## Übungen zu OpenRefine
+Wie bereits bei vorherigen Übungen stand uns auch hierfür wieder ein Codespace zur Verfügung, über welchen wir auf eine Testversion von OpenRefine zugreifen konnten. <br>
+In der ersten Unterrichtseinheit haben wir Beispieldaten in OpenRefine importiert, mit welchen wir danach selbstständig Basisfunktionen (Faceting, Zellen-Split, Clustering, Zellen-Join) ausprobiert haben. <br>
+In der zweiten Unterrichtseinheit haben wir eine weitere Basisfunktion, die Reconciliation, angeschaut aber jedoch nicht selbst ausprobiert. Stattdessen haben wir noch eine Übung zur Konvertierung von CSV nach MARCXML gemacht. Dazu haben wir die Funktion "Templating Exporter" genutzt. Mit dieser Funktion kann das Template, anhand dessen die Konvertierung gemacht wird, direkt bearbeitet werden. So kann beispielsweise selbst gewählt werden, welches Trennzeichen verwendet werden soll. Die Möglichkeit, das Template direkt bearbeiten zu können, kann beispielsweise nützlich sein, wenn ein Format gewünscht ist, welches (noch) nicht von OpenRefine unterstützt wird.
+
+![image](https://github.com/yara-wagner/lerntagebuch/assets/160014711/7c8ffb24-1037-4a27-98be-6c8a8626985d)
+<br>Bildquelle: [OpenRefine](https://openrefine.org/docs/manual/exporting#templating-exporter)
+
