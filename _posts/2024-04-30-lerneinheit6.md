@@ -31,4 +31,3 @@ In der zweiten Unterrichtseinheit haben wir eine weitere Basisfunktion, die Reco
 
 ![image](https://github.com/yara-wagner/lerntagebuch/assets/160014711/7c8ffb24-1037-4a27-98be-6c8a8626985d)
 <br>Bildquelle: [OpenRefine](https://openrefine.org/docs/manual/exporting#templating-exporter)
-
