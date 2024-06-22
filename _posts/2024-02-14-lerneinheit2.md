@@ -28,4 +28,4 @@ Den Unterschied zwischen Git und GitHub habe ich zwar schon mehrfach gehört, ve
 
 ## GitHub Pages
 Die Erstellung des Lerntagebuchs mit GitHub Pages mit der vom Dozenten zur Verfügung gestellten Vorlage und der dazugehörigen Anleitung verlief problemlos. GitHub Pages kannte ich bisher noch nicht, finde es jedoch sehr praktisch. Falls ich wiedereinmal so etwas brauche, werde ich bestimmt wieder auf das Tool zurückgreifen.<br>
-💡 Neues Tool: GitHub Pages
+💡 Neues Tool: GitHub Pages (mehr Angaben dazu unter [Schreiben auf GitHub](https://docs.github.com/de/get-started/writing-on-github))
