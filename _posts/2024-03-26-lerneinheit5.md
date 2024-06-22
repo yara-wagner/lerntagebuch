@@ -10,7 +10,7 @@ In diesem Lerntagebuch möchte ich mich auf einen bestimmten Aspekt, der mich in
 ## DSpace
 [DSpace](https://dspace.lyrasis.org/about) ist eine Open Source Software für Publikationen und Forschungsdaten, die sich zum Ziel gesetzt hat Wissen offen zugänglich und einfach verwaltbar zu machen.
 
-## SEO von DSpace Seiten
+## SEO von DSpace Seiten [^1]
 Mit Hilfe von Suchmaschinenoptimierung sollen Websiten und ihre Inhalte besser auffindbar gemacht werden.
 
 Zu diesem Thema findet man in der DSpace Dokumentation einige Tipps spezifisch für den eigenen DSpace. Damit soll sichergestellt werden, dass der eigene DSpace von Suchmaschinen indexiert ist, da viele Besucher über Suchmaschinen zu Inhalten im Internet gelangen. DSpace verfügt über Tools, die dafür sorgen, dass die wichtigsten Suchmaschinen die Inhalte einfach und effektiv indizieren können. Für die meisten dieser Tools müssen jedoch gewisse Grundeinstellungen vorgenommen werden. Es soll sichergestellt werden, dass:
@@ -21,12 +21,12 @@ Zu diesem Thema findet man in der DSpace Dokumentation einige Tipps spezifisch f
 3. der Proxy X-Forwarded-Headers an die Benutzeroberfläche weiterleitet.
 4. die Benutzeroberfläche serverseitiges Rendering verwendet. Das ist standardmässig aktiviert.
 5. die Sitemaps-Funktion aktiviert ist. Das ist bereits standardmässig so.
-6. robots.txt-Datei soll Zugriff auf die Splash-Seiten und den Volltext zulassen.<br>
-💡 Eine Splash-Seiten ist eine Art Pop-up oder Overlay, welches beim Aufruf einer Website angezeigt wird bevor die eigentliche Website angezeigt wird. [^1]
+6. die robots.txt-Datei Zugriff auf die Splash-Seiten und den Volltext zulässt.<br>
+💡 Eine Splash-Seiten ist eine Art Pop-up oder Overlay, welches beim Aufruf einer Website angezeigt wird bevor die eigentliche Website angezeigt wird. [^2]
 7. die Metadaten der Items korrekt in der HTML-Kopfzeile angezeigt werden.
 8. die Umleitung von Dateidownloads auf Item-Landingpages vermieden wird.
 
-Ausserdem wird darauf hingewiesen, dass OAI-PMH (Open Archives Initiative Protocol for Metadata Harvesting) für Suchmaschinen grundsätzlich nicht von Nutzen ist. [^2]
+Ausserdem wird darauf hingewiesen, dass [OAI-PMH (Open Archives Initiative Protocol for Metadata Harvesting)](https://www.openarchives.org/pmh/) für Suchmaschinen grundsätzlich nicht von Nutzen ist. [^1]
 
 ❓ Was ist der Unterschied zwischen 'indexiert' und 'indiziert' und wann wird welcher Begriff verwendet? Ich habe nicht wirklich eine Antwort darauf gefunden bzw. die Antworten widersprechen sich zum Teil oder sind schwammig formuliert oder es ist nicht ersichtlich, woher die Definition stammt:
 - "Bei Suchmaschinen heißt es so: Bestehende Informationen, welche nur Sortiert werden (beispielsweise eine Liste von 100 Wörter nach Beliebtheit) wird indexiert. Werden dann nachträglich neue Einträge in die Liste aufgenommen, werden diese neuen Begriffe indiziert." [^3] → Unklar, woher die Definition stammt und ob sie korrekt ist.
@@ -38,7 +38,7 @@ Ausserdem wird darauf hingewiesen, dass OAI-PMH (Open Archives Initiative Protoc
 ---
 
 
-[^1]: Quelle: [https://unbounce.com/website-optimization/what-is-a-splash-page](https://unbounce.com/website-optimization/what-is-a-splash-page)
-[^2]: Quelle: [https://wiki.lyrasis.org/display/DSDOC7x/Search+Engine+Optimization](https://wiki.lyrasis.org/display/DSDOC7x/Search+Engine+Optimization)
+[^1]: Quelle: [https://wiki.lyrasis.org/display/DSDOC7x/Search+Engine+Optimization](https://wiki.lyrasis.org/display/DSDOC7x/Search+Engine+Optimization)
+[^2]: Quelle: [https://unbounce.com/website-optimization/what-is-a-splash-page](https://unbounce.com/website-optimization/what-is-a-splash-page)
 [^3]: Quelle: [https://www.lima-city.de/thread/indexierung-oder-indizierung](https://www.lima-city.de/thread/indexierung-oder-indizierung#:~:text=Bestehende%20Informationen%2C%20welche%20nur%20Sortiert,werden%20diese%20neuen%20Begriffe%20indiziert.)
 [^4]: Quelle: [https://www.duden.de/rechtschreibung/indexieren](https://www.duden.de/rechtschreibung/indexieren) und [https://www.duden.de/rechtschreibung/indizieren](https://www.duden.de/rechtschreibung/indizieren)
