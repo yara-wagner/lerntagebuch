@@ -24,7 +24,7 @@ In der Arbeit habe ich mich vor längerer Zeit im Selbststudium in das [Pro Git 
 💡 Wann immer möglich die Theorie auch in der Praxis ausprobieren, das Lernergebnis ist dadurch viel besser.
 
 Den Unterschied zwischen Git und GitHub habe ich zwar schon mehrfach gehört, vergesse die genaue Definition jedoch meistens wieder. Aus diesem Grund möchte ich sie hier nochmals festhalten:<br>
-💡 Git ist ein Open-Source Versionierungssystem, wohingegen GitHub (gleich wie auch GitLab) eine (teilweise kostenpflichtige) Hosting-Plattform ist, die auf Git-Basis arbeitet (🠒 Host für Git-Projekte). Git allein kann nur durch die Kommandozentrale genutzt werden, GitHub hingegen bietet eine grafische Oberfläche.
+💡 Git ist ein Open-Source Versionierungssystem, wohingegen GitHub (gleich wie auch GitLab) eine (teilweise kostenpflichtige) Hosting-Plattform ist, die auf Git-Basis arbeitet (→ Host für Git-Projekte). Git allein kann nur durch die Kommandozentrale genutzt werden, GitHub hingegen bietet eine grafische Oberfläche.
 
 ## GitHub Pages
 Die Erstellung des Lerntagebuchs mit GitHub Pages mit der vom Dozenten zur Verfügung gestellten Vorlage und der dazugehörigen Anleitung verlief problemlos. GitHub Pages kannte ich bisher noch nicht, finde es jedoch sehr praktisch. Falls ich wiedereinmal so etwas brauche, werde ich bestimmt wieder auf das Tool zurückgreifen.<br>
