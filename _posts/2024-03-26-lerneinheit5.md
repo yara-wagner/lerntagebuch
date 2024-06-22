@@ -10,7 +10,7 @@ In diesem Lerntagebuch möchte ich mich auf einen bestimmten Aspekt, der mich in
 ## DSpace
 [DSpace](https://dspace.lyrasis.org/about) ist eine Open Source Software für Publikationen und Forschungsdaten, die sich zum Ziel gesetzt hat Wissen offen zugänglich und einfach verwaltbar zu machen.
 
-## SEO von DSpace Seiten [^1]
+## SEO von DSpace-Seiten [^1]
 Mit Hilfe von Suchmaschinenoptimierung sollen Websiten und ihre Inhalte besser auffindbar gemacht werden.
 
 Zu diesem Thema findet man in der DSpace Dokumentation einige Tipps spezifisch für den eigenen DSpace. Damit soll sichergestellt werden, dass der eigene DSpace von Suchmaschinen indexiert ist, da viele Besucher über Suchmaschinen zu Inhalten im Internet gelangen. DSpace verfügt über Tools, die dafür sorgen, dass die wichtigsten Suchmaschinen die Inhalte einfach und effektiv indizieren können. Für die meisten dieser Tools müssen jedoch gewisse Grundeinstellungen vorgenommen werden. Es soll sichergestellt werden, dass:
