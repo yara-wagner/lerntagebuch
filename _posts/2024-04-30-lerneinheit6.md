@@ -30,4 +30,4 @@ In der ersten Unterrichtseinheit haben wir Beispieldaten in OpenRefine importier
 In der zweiten Unterrichtseinheit haben wir eine weitere Basisfunktion, die Reconciliation, angeschaut aber jedoch nicht selbst ausprobiert. Stattdessen haben wir noch eine Übung zur Konvertierung von CSV nach MARCXML gemacht. Dazu haben wir die Funktion "Templating Exporter" genutzt. Mit dieser Funktion kann das Template, anhand dessen die Konvertierung gemacht wird, direkt bearbeitet werden. So kann beispielsweise selbst gewählt werden, welches Trennzeichen verwendet werden soll. Die Möglichkeit, das Template direkt bearbeiten zu können, kann beispielsweise nützlich sein, wenn ein Format gewünscht ist, welches (noch) nicht von OpenRefine unterstützt wird.
 
 ![image](https://github.com/yara-wagner/lerntagebuch/assets/160014711/7c8ffb24-1037-4a27-98be-6c8a8626985d)
-<br>Bildquelle: [OpenRefine](https://openrefine.org/docs/manual/exporting#templating-exporter)
+<br>(Bildquelle: [OpenRefine](https://openrefine.org/docs/manual/exporting#templating-exporter))
