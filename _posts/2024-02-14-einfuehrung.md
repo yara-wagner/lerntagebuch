@@ -17,7 +17,7 @@ Ich möchte darauf hinweisen, dass im Lerntagebuch festgehaltene theoretische In
 
 Im Lerntagebuch werden bestimmte Abschnitte jeweils mit Emojis gekennzeichnet. Nachfolgend eine Legende dazu:
 - 💭 Gedanken
-- 💡 Neu Gelerntes, Erkenntnisse
+- 💡 Learnings, Erkenntnisse
 - ❓ Fragen / Unklarheiten
 - ⚠️ Muss/Möchte ich nochmals anschauen, lässt sich noch vertiefen
 - ...
