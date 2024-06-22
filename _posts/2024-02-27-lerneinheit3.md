@@ -22,7 +22,7 @@ Anders als Regelwerke dienen Datenformate der praktischen Repräsentation von Ka
 💡 Regelwerke und Datenformate sind nicht immer trennscharf und ergänzen sich gegenseitig. Bei einer Kombinatoin von beidem wird von einem Datenmodell gesprochen.
 
 ## Koha
-[Koha](https://koha-community.org/) basiert auf MARC21 und ist ein skalierbares Open Source Bibliotheksverwaltungssstem. Auf einer [Demo-Umgebung](https://koha.adminkuhn.ch:8443) haben wir uns erst gemeinsam die Grundkonfiguration angeschaut und anschliessend noch einzeln verschiedene Use Cases durchgespielt (z. B. Buch erfassen oder Benutzer anlegen).
+[Koha](https://koha-community.org/) basiert auf MARC21 und ist ein skalierbares Open Source Bibliotheksverwaltungssstem. Auf einer Demo-Umgebung haben wir uns erst gemeinsam die Grundkonfiguration angeschaut und anschliessend noch einzeln verschiedene Use Cases durchgespielt (z. B. Buch erfassen oder Benutzer anlegen).
 
 Die Software steht unter der GNU General Public License (GPL). Das heisst, dass die Software frei genutzt und weiterentwickelt werden darf, die Weiterentwicklungen müssen jedoch auch wieder unter derselben Lizenz veröffentlicht werden und dürfen nicht verkauft werden.
 
