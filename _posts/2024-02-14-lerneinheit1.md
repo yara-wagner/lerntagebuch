@@ -8,7 +8,7 @@ Heute fand die erste Vorlesung des Moduls "Bibliotheks- und Archivinformatik" st
 ## Kursorganisation
 **ECTS-Punkte**: 4 <br>
 **Voraussetzungen**: keine <br>
-**Dozent**: Felix Lohmeier <br>
+**Dozent**: [Felix Lohmeier](https://felixlohmeier.de/lebenslauf.html) <br>
 **Semester**: Frühlingssemester 2024
 
 Ziel des Moduls "Bibliotheks- und Archivinformatik" ist es, die in Bibliotheken und Archiven eingesetzten Softwares und Technologien sowie die verwendeten Metadatenstandards und Austauschprotokolle kennenzulernen (siehe auch Modulbeschreibung in Moodle).
