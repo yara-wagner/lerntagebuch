@@ -29,4 +29,4 @@ Mein Wissen über Bibliotheks- und Archivthemen habe ich fast ausschliesslich au
 ## Meine Erwartungen an das Modul
 Ich interessiere mich wie bereits oben beschrieben mehr für die "Informatik"-Module des Studiums und bisher weniger für Bibliotheks- oder Archivthemen. Aber gerade deshalb ist dieses Modul für mich spannend, da es einen für mich interessanten Themenbereich mit einem für mich weniger interessanten Themenbereich vereint. Ich bin gespannt darauf, was dabei herauskommt.
 
-Bezüglich des Inhalts habe ich keine konkreten Erwartungen, ich lasse mich gerne überraschen :)
+Bezüglich des Inhalts habe ich keine konkreten Erwartungen, ich lasse mich gerne überraschen! 😃
